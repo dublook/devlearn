@@ -5,3 +5,4 @@ console.log('You say yes, I say no');
 console.log('We all in a yellow submarine.');
 console.log('I am bulletproof, nothing to loose');
 console.log('Lady Madonna, children at your feet');
+console.log('Your wish is my command'); // breakbot "Baby, I'm yours"
